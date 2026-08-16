@@ -1,5 +1,5 @@
-## Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/L3XOHak3bp/)
+## Hi there, I'm Tanishq. My Page is currently under construction but heres my leetcode meanwhile if ya need it :D
+![Leetcode Stats](https://leetcard.jacoblin.cool/TanishqGiri?ext=heatmap)
 <!--
 **Tanishq-IMCA/Tanishq-IMCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
