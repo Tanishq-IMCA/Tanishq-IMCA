@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats](https://jacoblin.cool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Tanishq-IMCA)
 <!--
 **Tanishq-IMCA/Tanishq-IMCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
