@@ -21,7 +21,7 @@ I'm a final-year **AI & Data Science** student at Vishwakarma University, Pune, 
 
 ---
 
-### 🛠️ When I Code, I Rely On
+### 💻 When I Code, I Rely On
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I'm a final-year **AI & Data Science** student at Vishwakarma University, Pune, 
 
 ---
 
-### 🚀 Featured Projects
+### 📚 Featured Projects
 
 <div align="center">
 
@@ -88,13 +88,13 @@ I'm a final-year **AI & Data Science** student at Vishwakarma University, Pune, 
 
 ---
 
-### 🎮 Community & Leadership
+### 📈 Community & Leadership
 
 Founded and led **Infinite Minecrafters Network** for **6+ years**, scaling it to a **2,500+ member** community — overseeing infrastructure architecture, cross-functional team management (COO, CFO, developers), release cycles, and end-to-end community operations from the ground up.
 
 ---
 
-### 📫 Connect
+### 👨🏻‍💻 Connect
 
 <div align="center">
 
