@@ -45,6 +45,19 @@ I'm a final-year **AI & Data Science** student at Vishwakarma University, Pune, 
 
 ---
 
+---
+
+### 🕹️ Also Currently Expanding My Skills In:
+
+<div align="center">
+
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
