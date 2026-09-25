@@ -41,7 +41,6 @@ I'm a final-year **AI & Data Science** student at Vishwakarma University, Pune, 
 
 </div>
 
----
 
 ---
 
